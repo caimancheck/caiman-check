@@ -4,7 +4,6 @@
 
 🌐 **Try it free:** [caimancheck.com](https://caimancheck.com) · 📐 **Full methodology:** [caimancheck.com/how](https://caimancheck.com/how) · 📰 **Articles:** [caimancheck.com/articles](https://caimancheck.com/articles)
 
-> Caiman Check is a proxy comparison service. It is not related to CaImAn, the calcium imaging analysis toolbox.
 
 This repository is the public home of Caiman Check: how it tests proxies, how every number in a report is calculated, and what changed between methodology versions. The service itself runs at [caimancheck.com](https://caimancheck.com).
 
